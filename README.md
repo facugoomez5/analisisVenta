@@ -146,13 +146,13 @@ analisisVenta/
 ## Commits Realizados
 
 
-
+```bash
 PROY-1: Crear estructura inicial del proyecto
 PROY-2: Agregar dataset de ventas
 PROY-2: Desarrollar script de análisis de ventas
 PROY-2: Crear gitIgnore
 PROY-3: Mejorar documentación y revisión QA
-
+```
 
 ---
 
