@@ -1,0 +1,5 @@
+
+__pycache__/
+.ipynb_checkpoints/
+*.log
+datos/sales_sample_2024.csv
